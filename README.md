@@ -4,7 +4,7 @@
 
 
 ## What is it?
-This is a tiny air recirculation filter that can fit inside your 3d printers chamber. It utilizes activated carbon pellets to capture VOC particles. Its heavily inspired by the work of 0ndsk4 and the Nevermore Micro. Its improvements lie in the dual blower design thats more powerfull and compact. Theres no glue needed anymore to mount the blower. The blowers are OTS components with proper PWM and Tach support. They also have polarity and locked rotor protection. The cartridge has been extended to increase the absorbtion capacity. With a printed mesh its hard to get good layerstacking so this has been replaced with mesh material like you would find in a computer case. The filter is still in beta and feedback is welcome. 
+Rebreather is a tiny air recirculation filter that can fit inside your 3D printer's chamber. It uses activated carbon pellets to capture VOC particles. Rebreather is heavily inspired by the work of 0ndsk4 and the Nevermore Micro. Its improvements lie in the dual blower design that makes it more powerful and compact. The blowers are OTS components with proper PWM and Tachometer support, and do not require any glue to mount. They also have polarity and locked rotor protection. The cartridge has been extended to increase the absorbtion capacity. With a printed mesh, it's hard to get good layerstacking, so a mesh material is used, similar to what one would find in a computer case. The filter is still in beta - feedback is welcome. 
 
 Print in ABS or ABS+
 
@@ -26,10 +26,10 @@ The total price excluding carbon pellets is around 25 euro. A sourcing guide can
 *Cutting along the 'grain' results in a straight cut. A sample strip stl is included to help.
 
 ## Maintenance
-It is recommended to replace the contents of the cartridge every 100H or 2 months.
+It is recommended to replace the contents of the cartridge every 100 hours, or approximately 2 months.
 
 ## Future plans
-Once the Delta KFB0612HAFDB comes back in stock it can be a good substitute candidate thats even more powerfull. An integrated dustfilter can also be explored.
+Once the Delta KFB0612HAFDB comes back in stock, it can be a good substitute candidate thats even more powerful. An integrated dust filter may also be explored.
 
 
 ## Resources
