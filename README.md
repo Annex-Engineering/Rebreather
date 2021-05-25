@@ -25,15 +25,18 @@ Print in ABS or ABS+
 The total price excluding carbon pellets is around 25 euro. A sourcing guide can be found on Discord.
 *Cutting along the 'grain' results in a straight cut. A sample strip stl is included to help.
 
+## Sourcing
+A BOM can be found here: [The ANNEX Sourcing Guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing)
+
+
 ## Maintenance
 It is recommended to replace the contents of the cartridge every 100 hours, or approximately 2 months.
 
 ## Future plans
 Once the Delta KFB0612HAFDB comes back in stock, it can be a good substitute candidate thats even more powerful. An integrated dust filter may also be explored.
 
-
 ## Resources
-Nevermore micro: https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
+Thank you to the Nevermore micro, without this, this design would have not come into fruition: https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
  
 
 ## Discord
