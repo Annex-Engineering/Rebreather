@@ -36,7 +36,7 @@ It is recommended to replace the contents of the cartridge every 100 hours, or a
 Once the Delta KFB0612HAFDB comes back in stock, it can be a good substitute candidate thats even more powerful. An integrated dust filter may also be explored.
 
 ## Resources
-Thank you to the Nevermore micro, without this, this design would have not come into fruition: https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
+Thank you to the Nevermore micro, without this, this design would have not come into fruition: https://github.com/nevermore3d/Nevermore_Micro
  
 
 ## Discord
