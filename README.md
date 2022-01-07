@@ -15,8 +15,8 @@ Print in ABS or ABS+
 
 
 ## Hardware needed:
-- 6x M2x4 (self tapping)
-- 11x M2x8 (self tapping)
+- 6x M2x4
+- 11x DIN912 M2x8 (self tapping)
 - 8x 6x3mm magnets
 - 2x Delta KFB04512HHAF0C
 - 1x M3x5x4 heatinsert (5 if you use the bottem mounting holes)
